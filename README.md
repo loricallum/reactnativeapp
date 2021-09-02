@@ -1,4 +1,4 @@
-Nice React Native Starter skeleton by Lori Lewis :)
+Nice React Native Starter skeleton by Lori :)
 
 npm install -g expo-cli
 expo init EcommerceApp
